@@ -20,23 +20,23 @@ Work schedule:
  
 #### Junior IOS Developer 
  
-##### Education:
-#### Belarusian State University 
-##### (Faculty of Chemistry)
-###### (third year student)
-##### Skills:
-#### Swift, UIKIt , Objective-C, UITableView , Foundation, IntelliJ IDEA
+ ##### Education:
+ #### Belarusian State University 
+ ##### (Faculty of Chemistry)
+ ###### (third year student)
+ ##### Skills:
+ #### Swift, UIKIt , Objective-C, UITableView , Foundation, IntelliJ IDEA
 
 
 
 
-###### Minsk,BY
-##### Language:
-English 
-###### (weak)
-### About me:
- Programming languages: Swift.
- Frameworks: UIKit
- Development tools: Xcode
- 
+ ###### Minsk,BY
+ ##### Language:
+ English 
+ ###### (weak)
+ ### About me:
+  Programming languages: Swift.
+  Frameworks: UIKit
+  Development tools: Xcode
+  
 

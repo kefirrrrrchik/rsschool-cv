@@ -38,5 +38,5 @@ Work schedule:
   Programming languages: Swift.
   Frameworks: UIKit
   Development tools: Xcode
-  
+  Started learning English
 
